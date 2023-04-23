@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+background-color: rgb(199, 45, 45);
+width: 53%;
+background-position: center;
+color: white;
+}
+
+.main_txt{
+color: white;
+}
+
+.vid{
+    height: 450px;
+    width: 800px;
+}
+
+
+.foot{
+    color: black;
+    text-align: center;
+    height: 35px;
+    width: 100%;
+    border: black;
+    position: absolute;
+    bottom: 0;
+}
